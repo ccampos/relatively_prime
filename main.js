@@ -20,7 +20,7 @@ function getPrimeNumbers(limit) {
     console.log(prime_numbers);
 }
 
-//getPrimeNumbers(1000);
+getPrimeNumbers(200);
 
 function getMaximalPairwiseRelativelyPrimeSubset(array) {
     for (let i = 0; i < array.length; i++) {
@@ -28,4 +28,4 @@ function getMaximalPairwiseRelativelyPrimeSubset(array) {
     }
 }
 
-getMaximalPairwiseRelativelyPrimeSubset([15, 17, 21, 32, 169]);
+//getMaximalPairwiseRelativelyPrimeSubset([15, 17, 21, 32, 169]);
