@@ -1,0 +1,1 @@
+# relatively_prime
